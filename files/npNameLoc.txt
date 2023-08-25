@@ -56,7 +56,7 @@ Theodore Roosevelt,North Dakota
 Virgin Islands,United States Virgin Islands
 Voyageurs,Minnesota
 Wind Cave,South Dakota
-Wrangell–St. Elias,Alaska
+WrangellSt.Elias,Alaska
 Yellowstone,Wyoming Montana Idaho
 Yosemite,California
 Zion,Utah
